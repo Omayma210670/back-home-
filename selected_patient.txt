@@ -1,0 +1,3 @@
+class SelectedPatient {
+  static Map<String, dynamic>? data;
+}
